@@ -42,6 +42,18 @@ sources of energy 能源 this will take time这需要时间 it is not likely to 
 参考译文：必须找到新的能源，而且这需要时间；但是过去我们感觉到的那种能源廉价而充足的情况不大可能再出现了。
 
 
+2018/3/1
+The standardized educational or psychological tests that are widely used to aid in selecting, classifying, assigning, or promoting students, employees, and military personnel have been the target of recent attacks in books, magazines, the daily press, and even in Congress.
+我的翻译：广泛应用于挑选、分类、委派或者提高学生、职工和军人个人的标准化教育或者心理测试最近已经成为书、杂志、每日报道甚至国会的攻击。
+句子分析：
+·句子主干为主席表结构：The standardized educational or psychological tests + have been + the target of recent attacks
+·that are widely used to aid in selecting, classifying, assigning, or promoting students, employees, and military personnel 为定语从句，修饰主语，即The standardized educational or psychological tests,
+·in books, magazines, the daily press, and even in Congress 为介词短语，修饰the target of recent attacks.
+·词语 standardized adj.标准的；标准化的   psychological adj.心理的；心理学的；
+classify vt.分类；分等 assign vt.分配；指派 military adj.军事的；军人的
+personnel n.人事部门；全体人员  Congress n.国会
+参考译文：
+·广泛应用于协助选拔、委派或提拔学生、雇员和军事人员的标准化教育测试或心理测试一直是某些人近年来在书本、杂志、日报、甚至国会中进行抨击的目标。
 
 
 
