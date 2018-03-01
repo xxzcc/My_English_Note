@@ -55,7 +55,18 @@ personnel n.人事部门；全体人员  Congress n.国会
 参考译文：
 ·广泛应用于协助选拔、委派或提拔学生、雇员和军事人员的标准化教育测试或心理测试一直是某些人近年来在书本、杂志、日报、甚至国会中进行抨击的目标。
 
+Whether the results will be valuable, meaningless, or even misleading depends partly upon the tool iteself but largely upon the user. All informed predictions of future performance are based upon some knowledge of relevant past performance: school grades, research productivity, sales records, or whatever is appropriate.
+我的翻译：工具是否有价值、有意义甚至是否迷失一部分是由本身决定的，但更大程度是由使用者决定的。所有对未来行为的预测都是根据过去相关的表现做出的：学习成绩，研究效率，销售成绩，或者其他别的。
+·首句主干为“主谓宾结构”=whether the results will e valuable, meaningless, or even misleading//depends partly upon/the tool itself/but largely upon the user.
+·whether the results will be valuable, meaningless, or even misleading 为主语从句; depends partly upon...与but(depends) largely upon the user为but连接的并列结构
+·二句主干：主谓宾（被动）=All informed predictions of future performance//are based upon// some knowledge of relevant past performance. 修饰成分：school grades, research productivity, sales records, or whatever is appropriate 对relevant past performance 的内容做补充说明。
 
+单词：valuable adj.有价值的 meaningless adj.没有意义的 misleading adj.误导性的
+depend upon 取决于 informed adj.消息灵通的；见多识广的  prediction n.预报；预言
+performance n.性能；绩效；表演 relevant adj.相关的；切题的；中肯的
+productivity n.生产力；生产率；生产能力 appropriate adj.适当的；恰当的
+
+参考译文：测试的结果是否有价值的、无意义的、还是误导的，部分取决于这种工具本身，但主要取决于测试者。所有对未来表现的有见识地预测都是以在某种程度上了解有关过去的表现为基础的：学校的成绩，研究效益，销售记录或任何符合需要的信息。
 
 
 
