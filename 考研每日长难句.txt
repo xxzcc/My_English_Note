@@ -123,3 +123,21 @@ score n.分数 available adj.可获得的；可购得的；可找到的  incompl
 
 
 
+2018/3/4
+According to a statement last week, unseasonably warm temperatures last fall caused water to breach the 
+
+entrance to The Global Seed Vault, one of humanity's last hopes in the event of global catastrophe.
+我的翻译：根据上周的报道，最近不知名的温度上升导致水进入了全球种子库，人类在世界末日最后的希望。
+参考翻译：根据上周的一份声明，去年秋天异常温度的天气导致流水进入了全球种子库的入口，如果地球毁灭，那么全球种
+
+子库就是人类最后的一份希望。
+
+The so-called "Doomsday" seed vault hidden beneath the icy permafrost of Svalbard, midway between Norway and 
+
+North Pole contains more than 500 million seeds from around the globe that could be used to recreate food 
+
+supplies in case of world wide agricultural calamity.
+参考翻译：所谓的“世界末日”种子库位于挪威和北极之间斯瓦尔巴特群岛上的永久冻土之下，里面装有来自世界各地的5
+
+亿多粒种子，如果全球发生农业灾难，这些种子可以用来重造粮食供应链。
+
