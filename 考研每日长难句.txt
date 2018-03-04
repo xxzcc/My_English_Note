@@ -87,7 +87,39 @@ govern vt.管理，支配，统治   instinct  n.本能
 参考译文：
 ·我们的环境同我们的才能、性格特征和行为即使没有任何关系的话，也是微不足道的。这是理论的核心。这种理论甚至极端地坚持认为，我们的行为模式在很大程度上是先天决定的；因此，我们几乎完全受我们的本能所支配。
 
+2018/3/3
+Anyone who keeps careful score knows that the information available is always incomplete and that the 
 
+predictions are always subject to error. Standardized tests provide a quick objective method of getting some 
+
+kinds of information about what a person learned, the skills he has developed, or the kind of person he is.
+我的翻译：
+1.任何有着细心观察的人都知道信息的有用性总是不完整的，并且预测也总是会发生错误。 标准化的测试提供一个快捷的
+
+从一个人身上提取信息的方法，可以提取他所学到的东西，发展的技能或者是一个怎样的人。
+句子分析：
+首句主干为“主谓宾“结构=””anyone + knows +that ... and that ...; 修饰成分：who keeps careful score 为定语
+
+从句，修饰anyone，译为“的”结构即可。that the information is always incomplete 为宾语从句1； that the 
+
+predictions are always subject to error 为宾语从句2
+2.二句主干：主谓宾：Standardized tests + provide + a quick objective method of getting some kinds of 
+
+information. 修饰成分：about what a person learned, the skills he has developed, or the kind of person he is 
+
+为介词短语修饰information; what a person learned, the skills he has developed, or the kind of person he is 
+
+为介词about的宾语，其中what a person learned 为宾语从句， he has developed 为省略关系词的定语从句修饰 the 
+
+skills.
+单词：
+score n.分数 available adj.可获得的；可购得的；可找到的  incomplete adj.不完全的  be subject to sth.受支配，
+
+从属于；常遭受... be subject to error 容易犯错 standardized adj.标准化的  objective adj.客观的
+
+任何/所有仔细记分数的人都知道，所得到的信息总是不完全的，而且这些预测也总是会有错误的。标准化测试提供了快速
+
+、客观地得到某些信息的方法，这些信息是有关一个人所学的知识、他所获得的技能，或者他是属于哪一类型的人。
 
 
 
