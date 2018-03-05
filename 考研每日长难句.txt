@@ -167,4 +167,14 @@ n.林务工作者  timber n.木材 crop n.作物 timber crops 提供木材的作
 
 ）木材的物种。
 
+Mental health can't be learned, only reawakened. It is like immune system of the body, which under stress of  through lack of nutrition or exercise can be weakened, but which never leaves us.
+我的翻译：心理（精神）健康不能通过学习获得，只能通过唤醒。它像身体的一个本能的系统，它在缺乏刺激或者锻炼的压 力下可能会休眠，但是它永远不会离开我们。
+
+句子分析：
+1.首句较为简单。二句主干为主系表结构，即：It/is/like immune system of the body.
+2.两个which引导but连接的两个并列的定语从句，定语从句主干为which can be weakened, but which never leaves us.
+"under stree"和"through lack of nutrition or exercis"是由"or"连接的两个条件状语。
+
+单词：reawaken vt.唤醒  immune adj.免疫的  immune system 免疫系统 nutrition n.营养  weaken vt.使虚弱，削弱
+参考译文：心理健康无法习得，只能被重新唤醒。它就像身体的免疫系统，在压力之下或缺乏营养、锻炼时会被削弱，但却 从未离开我们
 
