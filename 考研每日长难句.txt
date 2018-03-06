@@ -178,3 +178,21 @@ Mental health can't be learned, only reawakened. It is like immune system of the
 单词：reawaken vt.唤醒  immune adj.免疫的  immune system 免疫系统 nutrition n.营养  weaken vt.使虚弱，削弱
 参考译文：心理健康无法习得，只能被重新唤醒。它就像身体的免疫系统，在压力之下或缺乏营养、锻炼时会被削弱，但却 从未离开我们
 
+
+2018/3/6
+Indifference about the origins and production of foods became a norm of urban culture, laying the groundwork for a modern food sensibility that would spread all across America in the decades that followed, "Vileisis worte, of the 20th century.
+
+单词：Indifference 冷漠；无视  Origin 来源 Production 生产 Norm 常态 Urban 城市的 Groundwork 基础 
+Sensibility 感觉；识别力  lay 放
+
+确定主干：
+1....Vileisis wrote.明显的直接引语
+2.Indifference became a norm 引语中的主干
+切分成分：
+3.About the origins and production of foods 后置定语
+4.Of urban culture 后置定语
+5.Laying the groundwork for a modern food sensibility = Indifference lays the groundwork for a modern food sensibility.
+6.that would spread all across America in the decades(that followed)定语从句，修饰sensibility;
+
+参考译文：“对食物的来源和生产的漠视已经是城市文化的常态。它奠定了现代人食品感受力的基础，将来几十年这种感受将散播全美” Vileisis在20世纪写到。
+
