@@ -219,3 +219,27 @@ A system was supposed to be foolproof, checked and counterchecked repeatedly
 这本该是一个万无一失，反复查验的系统，但现在却在好莱坞明星和全世界数以万计的电视观众面前出现了令人丢脸的错误，而且这个丑出的不能再大了。
 
 
+
+Being interested in the relationship of language and thought, Whorf developed the idea that the structure of language determines the structure of habitual thought in a society.
+我的翻译：对语言和思想之间的关系很有兴趣的Whorf，他发展了一个观点，结构化的语言决定了一个社会的行为思想。
+
+句子分析：本句一个由“现在分词短语(being interested in...)”引起的带同位语从句的复合句。
+
+1.主句的主谓宾结构为：Whorf + developed + the idea = Whorf 逐渐形成了这种见解
+2.同位语从句：(the idea) that the structure of language determines the structure of habitual thought in a society 在一个社会里，语言的结构决定习惯思想的结构
+3.现在分词短语： Being interested in the relationship of language and thought （他）对语言和思维的关系感兴趣
+
+单词：
+1.being interested in  ... 可以译做一个句子，即 "Whorf对语言和思维的关系很感兴趣"
+2.developed the idea 出错稍多，有译成"发明了一种认识"，也有译成"发展了一个主意"，都不恰当，而是"形成观点"，
+
+主要是汉语表达要恰当
+3.habitual thought 应译作"习惯（性）思维"，而不宜译作"思考，思想"   habitual adj 习惯的；惯常的；习以为常的
+4.同位语结构的翻译：可考虑用冒号或"即"字结构等提示性方法来处理
+
+译文1：Whorf对语言与思维的关系很感兴趣，他（逐渐）形成了这样一种观念：在一个社会里，语言的结构性决定了习惯思维的结构。
+
+译文2：Whorf对语言和思维的关系很感兴趣，他形成了一种观念，即：在一个社会里，语言的结构决定了习惯思维的结构。
+
+
+
