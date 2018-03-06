@@ -196,3 +196,26 @@ Sensibility 感觉；识别力  lay 放
 
 参考译文：“对食物的来源和生产的漠视已经是城市文化的常态。它奠定了现代人食品感受力的基础，将来几十年这种感受将散播全美” Vileisis在20世纪写到。
 
+
+The humiliating failure of a system that was supposed to be foolproof, checked and counter checked repeatedly, could not have been more public -watched by Hollywood stars and millions of people across the world on television.
+
+我的翻译：一个系统的失败应该是愚蠢的证明，检查和反复不断的检查，并且公之于总，给好莱坞的明星和来自于全世界的通过电视收听的人观看。
+翻译的不好。。。
+
+单词： foolproof 不会错的，万无一失的   humilitating 令人丢脸的
+
+主干识别 The humiliating failure of a system could not have been more public
+
+这样令人丢脸的失误简直不能再公开了
+也就是说：这个丑不能再大了
+
+切分成分：
+that was supposed to be foolproof, checked and counterchecked repeatedly,
+定语从句
+A system was supposed to be foolproof, checked and counterchecked repeatedly
+这本应该是一个万无一失，反复查验的系统。
+
+参考译文：
+这本该是一个万无一失，反复查验的系统，但现在却在好莱坞明星和全世界数以万计的电视观众面前出现了令人丢脸的错误，而且这个丑出的不能再大了。
+
+
