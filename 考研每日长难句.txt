@@ -243,3 +243,17 @@ Being interested in the relationship of language and thought, Whorf developed th
 
 
 
+
+2018/3/7
+An enducation that aims at getting a student a certain king of job is a technical education, justified for reasons radically different from why education is universally required by law.
+我的翻译：以为学生找到一种特定的工作为目的的教育是一种工程教育，由于多种原因的评判是不同的，这就是为什么在法律上教育是各种知识都需要的。
+
+分析：句子主语是 an education, 后面that引导定语从句修饰主语，谓语动词是is，表语是a technical education。过去分词结构 justified for reasons，也就相当于前面内容之所以合情合理是因为reasons。 Reasons后面接了一个形容词结构radically different 作修饰，后面的why education is universally required by lay 看成一个整体，因此句子的意思是前面的内容之所以合理的原因不同于后面的why引导的句子。
+
+单词： be justified for... 被证明合理是由于
+       radically 愿意为“激进”，在考研中的副词修饰形容词时通常翻译为“非常”
+
+参考译文：旨在使学生胜任某种工作的教育是职业教育，它存在的理由与法律所规定的普及教育之间有很大的差别。
+
+
+
