@@ -257,3 +257,16 @@ An enducation that aims at getting a student a certain king of job is a technica
 
 
 
+
+2018/3/8
+Parents claimed more positive emotions and more meaning in their lives than non-parents, and a closer look revealed it was fathers who most enjoyed these benefits.
+我的翻译：当过父母的人称比起那些没有当过父母的人他们有更多的积极的情感和生活的更有意义，更近一步来看，父亲们是最享受这些益处的人。
+
+句子分析：
+Parents是主语，claimed 是谓语动词，宾语是more positive emotions and more meaning in their lives 的并列结构，其中more ... than ... 构成了比较级。 And 构成了并列语句连接，后面分句中 a closer look 是主语，revealed是谓语，并与从句 it was...who...构成强调句。 these benefits指代前方的more positive emotions and more meaning in their lives.
+单词：
+claim  v.声称，断言   a closer look 仔细观察
+
+参考翻译：相比那些还没做父母的人，为人父母者具有更积极的情感和生活也更有意义。通过更加仔细的观察，可以发现父亲在上诉方面更明显。
+
+
