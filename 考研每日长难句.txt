@@ -270,3 +270,43 @@ claim  v.声称，断言   a closer look 仔细观察
 参考翻译：相比那些还没做父母的人，为人父母者具有更积极的情感和生活也更有意义。通过更加仔细的观察，可以发现父亲在上诉方面更明显。
 
 
+
+2019/3/9
+Studies show that superagers appear to be more resilient to the slings and arrows of life, and are more extroverted and less neurotic. But they have also made another discovery.
+
+我的翻译：研究表明超级老人表现出更多的精神，并且更加。。。和更少的焦虑不安。但是他们也做了另外一个调查。
+
+单词； Superagers :特别长寿之人（老寿星）  Resilient：适应性强的，能迅速恢复的 extrovert 性格外向，活泼自信的  neurotic 神经质的  
+the slings and arrows of life（这是莎士比亚的台词来自于哈姆雷特的 to be or not to be这一幕，常常为后人所引用）生活的刀枪箭雨
+
+主干分析： Studies show that +宾语从句
+参考译文：研究显示，“超级老人”更容易从生活的刀枪箭雨中恢复过来，性格更加外向.更不那么神经质。但他们也有另外一项发现。
+
+In an open meeting with congressinal Democrats and Republicans, Trump embraced raising the age limit on purchasing certain weapons and suggested that law enforcement should be allowed to confiscate people's guns before going through due process in a court.
+我的分析：主子主干 Trump 主语 + and 引导的两个并列的句子  第一个为 embraced raising the age limite on purchasing certain weapons.  地儿个句子为 suggested that +宾语从句。
+
+我的翻译：在一个民主党和共和党国会的公开会议中，Trump提出将提高购买特定的武器的年龄限制并且建议法律强制性应该被允许面对人们的抢在一个法院的过程中。
+
+单词：Democrats 民主党人 Republicans 共和党人  confiscate 没收 due 应有的
+purchase 购买 congressional国会的  embrace  接受  enforcement 强制
+
+主干识别： Trump embraced raising the age limit on purchasing certain weapons and suggested that
+其他成分：
+宾语从句 law enforcement should be allowed to confiscate people's guns before going through due process in a court.
+状语
+In an open meeting with congressional Democrats and Republicans.
+
+参考译文：
+在与国会的民主党和共和党人公开会晤中，特朗普接受了提高购买某种武器的年龄限制并且建议应该允许执法人员在法庭的必要程序之前没收人们的枪支。
+	
+
+
+
+
+
+
+
+
+
+
+
