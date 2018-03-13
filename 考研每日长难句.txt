@@ -311,7 +311,23 @@ It serves directly to assist a rapid distribution of goods at reasonable price, 
 
 
 
+2018/3/13
+The proposed changes follow widespread criticism from opponents of the law, including free speech campaigners and Association of German Journalists, who say the threat of hefty fines is prompting internet firms to err on the side of caution and block more content than is necessary.
 
+单词：proposed 提议的 widespread 广泛传播的  opponents 反对者 campaigners活动人士  hefty fines 巨额罚款  err on the side of caution 宁愿过于谨慎也不要冒险犯错
+
+It's always best to err on the side of caution. 宁愿总是过于谨慎也不要冒险犯错
+block 屏蔽
+
+主干识别：
+The proposed changes follow widespread criticism from opponents of the law
+简化一下  A follow B  A紧随着B
+
+定语一：including free speech campaigners and the Association of German Journalists.
+
+定语二：who say the threat of hefty fines is prompting internet firms to err on the side of caution and block more content than is necessary.
+
+参考译文：修正提议是随着该法反对者的广泛批评而提出的，这种反对者包括言论自由活动家和德国记者协会。他们表示，巨额罚金的威胁使互联网企业一味求稳，屏蔽币所需更多的内容。
 
 
 
