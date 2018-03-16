@@ -331,6 +331,28 @@ The proposed changes follow widespread criticism from opponents of the law
 
 
 
+2017/3/16
+The state scrapped the proposal, but it remains a sign of the times: As employers aim to trim costs and boost productivity, workers face increasing encouragement to purchase and use mobile devices, don wearables, and even accept electronic implants, all while being assured that the new tools are serving their best interests.
+
+我的翻译： 现状很人性化，但是它留一下了一个信号 当雇佣者打算去减少花费和提高效率，工人们面临逐渐增加的鼓励去购买和用移动设备，变得无力困乏的，并且甚至接收了电子设备的影响，所有的这些都表明了新的工具满足他们的兴趣。
+
+单词：scraped the proposal 否决提议  trim cost 控制成本  don （动词）穿，戴  wearables（名词）可穿戴设备
+implant 植入 assure 确保  all while 与此同时  wage economy 薪水经济（靠工资生活的人群）
+
+并列句一：  The state scrapped the proposal，  州政府否定了这个提案
+并列句二：but it remains a sign of times, 但这提案依然是一个时期的标志
+第三个分句：
+As employes aim to trim costs and boost productivity, workers face increasing encouragement to purchase and use mobile devices, don wearables, and even accept electronic implants, all while being assured that the new tools are serving their best interests.
+主干识别： workers face increasing encouragement to purchase and use mobile devices and even accept 
+
+electronic implants
+其他成分 As employers aim to trim costs and boots productivity （状语从句）
+
+参考翻译：州政府否定了这个提案，但这个提案依然是一个时期的标志:随着雇主们为了控制成本和提高生产力，工人们将越来越多的被鼓励去购买和使用移动设备，甚至鼓励接收电子植入设备。与此同时，工人们也得到保证，这些新的设备一定是为了工人们的利益。
+
+
+
+
 
 
 
