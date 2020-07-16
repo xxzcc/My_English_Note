@@ -1,2 +1,2 @@
-# My_English_Note
-This is my personal English-Learning Note. 
+# My_code_Note
+This is my personal code Note. 
